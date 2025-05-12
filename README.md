@@ -38,7 +38,7 @@ This project comprehensively analyzes road traffic accident data using Microsoft
 
 You can access the full Excel file and dashboard via the link below:
 
- [Download Excel Dashboard from Google Drive]([https://your-google-drive-link-here](https://docs.google.com/spreadsheets/d/1FTHRFt-av7G3NRU9vFBBVoguy0384VLI/edit?usp=sharing&ouid=117597815968246858691&rtpof=true&sd=true))
+[Download Excel Dashboard from Google Drive](https://docs.google.com/spreadsheets/d/1FTHRFt-av7G3NRU9vFBBVoguy0384VLI/edit?usp=sharing&ouid=117597815968246858691&rtpof=true&sd=true)
 
 ## Tools Used
 
